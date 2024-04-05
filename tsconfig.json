@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, "auth.mts", "app/lib/actions.mts", "auth.config.mts"  ],
   "exclude": ["node_modules"]
 }
